@@ -42,8 +42,8 @@ class Controller {
     {
       for (int i = 0; i < (len / 3); i++) {
         pin_color.r = rgbs[(i * 3) + 0];
-        pin_color.g = rgbs[(i * 3) + 1];
-        pin_color.b = rgbs[(i * 3) + 2];
+        pin_color.b = rgbs[(i * 3) + 1];
+        pin_color.g = rgbs[(i * 3) + 2];
 
         //printf("r: %d , g: %d, b: %d\n", rgbs[(i * 3) + 0], rgbs[(i * 3) + 1], rgbs[(i * 3) + 2]);
         this->insertRGB(pin_color);
