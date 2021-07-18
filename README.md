@@ -1,2 +1,3 @@
 # theLightMaker
-This repo includes the code for control WS2811 led with using react native app and esp8266. It support Alexa
+This repository contains the code for controlling the WS2811 led strips using esp8266 and reactNative.
+The project supports Alexa.
