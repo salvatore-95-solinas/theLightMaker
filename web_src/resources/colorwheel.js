@@ -85,7 +85,7 @@
       width: diameter,
       height: diameter,
       "xlink:href":
-        "https://salvatore-95-solinas:HD7hpxv7jLzCVMp@github.com/salvatore-95-solinas/theLightMaker/blob/main/web_src/resources/wheel.png",
+        "https://cdn.jsdelivr.net/gh/salvatore_95_solinas/theLightMaker/web_src/resources/wheel.png",
     });
 
     this.$.markerTrails = this.$.wheel.append("g");
