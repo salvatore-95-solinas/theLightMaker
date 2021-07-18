@@ -42,6 +42,6 @@ If you don't want to use Alexa set ``` #define USE_ALEXA   0 ```
 ## Things you need (Shopping Cart) ## 
 [ESP82666](https://www.amazon.com/AZDelivery-Nodemcu-Module-ESP8266-Development/dp/B07F8759RC/ref=sr_1_2?keywords=esp8266&qid=1549978307&s=gateway&sr=8-2)
 
-[5050 SMD][WS28xx](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG/ref=sr_1_1_sspa?keywords=ws2812b&qid=1549978517&s=gateway&sr=8-1-spons&psc=1)
+[WS28xx](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG/ref=sr_1_1_sspa?keywords=ws2812b&qid=1549978517&s=gateway&sr=8-1-spons&psc=1)
 
 (Optional) [Alexa echo or any other version](https://www.amazon.de/dp/B01DFKBG5E/ref=asc_df_B01DFKBG5E58466726/?tag=googshopde-21&creative=22398&creativeASIN=B01DFKBG5E&linkCode=df0&hvadid=204288091658&hvpos=1o3&hvnetw=g&hvrand=8361400114568144756&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044401&hvtargid=pla-329799024896&th=1&psc=1)
